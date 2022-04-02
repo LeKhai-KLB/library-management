@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LIBRARY_MANAGEMENT" Class="LibraryDatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=LIBRARY_MANAGEMENT;Integrated Security=True" SettingsObjectName="Library.Properties.Settings" SettingsPropertyName="LIBRARY_MANAGEMENTConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CATEGORY" Member="CATEGORies">
+    <Type Name="CATEGORY">
+      <Column Name="Title" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="CATEGORY_BOOK" Member="BOOKs" ThisKey="Title" OtherKey="Category" Type="BOOK" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LIBRARIAN" Member="LIBRARIANs">
+    <Type Name="LIBRARIAN">
+      <Column Name="LibID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LibName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LibPass" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LibPhone" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.READER" Member="READERs">
+    <Type Name="READER">
+      <Column Name="ReID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ReName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ReAddress" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="RePhone" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ReImage" Type="System.Data.Linq.Binary" DbType="Image NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Association Name="READER_ISSUEBOOK" Member="ISSUEBOOKs" ThisKey="ReID" OtherKey="IssueReader" Type="ISSUEBOOK" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BOOK" Member="BOOKs">
+    <Type Name="BOOK">
+      <Column Name="ISBN" Type="System.String" DbType="Char(13) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="BookName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Author" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Publisher" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Category" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Summary" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="BookImage" Type="System.Data.Linq.Binary" DbType="Image NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Association Name="BOOK_ISSUEBOOK" Member="ISSUEBOOKs" ThisKey="ISBN" OtherKey="IssueBook1" Type="ISSUEBOOK" />
+      <Association Name="CATEGORY_BOOK" Member="CATEGORY1" ThisKey="Category" OtherKey="Title" Type="CATEGORY" IsForeignKey="true" DeleteRule="SET DEFAULT" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RETURNBOOK" Member="RETURNBOOKs">
+    <Type Name="RETURNBOOK">
+      <Column Name="ReturnID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ReturnDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="ISSUEBOOK_RETURNBOOK" Member="ISSUEBOOK" ThisKey="ReturnID" OtherKey="IssueID" Type="ISSUEBOOK" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ISSUEBOOK" Member="ISSUEBOOKs">
+    <Type Name="ISSUEBOOK">
+      <Column Name="IssueID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IssueBook" Member="IssueBook1" Type="System.String" DbType="Char(13) NOT NULL" CanBeNull="false" />
+      <Column Name="IssueReader" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IssueDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="ISSUEBOOK_RETURNBOOK" Member="RETURNBOOK" ThisKey="IssueID" OtherKey="ReturnID" Type="RETURNBOOK" Cardinality="One" />
+      <Association Name="BOOK_ISSUEBOOK" Member="BOOK" ThisKey="IssueBook1" OtherKey="ISBN" Type="BOOK" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="READER_ISSUEBOOK" Member="READER" ThisKey="IssueReader" OtherKey="ReID" Type="READER" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+</Database>

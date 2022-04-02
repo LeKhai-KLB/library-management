@@ -1,0 +1,147 @@
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Library.exe.config
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Library.exe
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Library.pdb
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Guna.UI2.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.LoginForm.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.SplashForm.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.Properties.Resources.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.csproj.CopyComplete
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.exe
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.pdb
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.MainForm.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.ReaderForm.resources
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Data.v20.1.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Data.v20.1.xml
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\Archive\Lập trình window\Library\Library\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.BooksForm.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.IssueBookForm.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.LibrarianForm.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.ReturnBookForm.resources
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Guna.UI.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\Archive\Lập trình window\Library\Library\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\Archive\Lập trình window\Library\Library\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.exe.config
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.viewReaderForm.resources
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\XanderUI.dll
+E:\Archive\Lập trình window\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.viewBookForm.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.csproj.ResolveComReference.cache
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.InfomationForm.resources
+E:\Archive\Lập trình window\Library\Library\obj\Debug\Library.DashBoardForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Library.exe.config
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Library.exe
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Library.pdb
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Data.v20.1.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Guna.UI.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Guna.UI2.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\XanderUI.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Data.v20.1.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.exe.config
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.csproj.ResolveComReference.cache
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.BooksForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.DashBoardForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.InfomationForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.IssueBookForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.LibrarianForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.LoginForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.MainForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.ReaderForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.ReturnBookForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.SplashForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.Properties.Resources.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.viewBookForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.viewReaderForm.resources
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.csproj.CopyComplete
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.exe
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.pdb
+E:\Archive\Lập trình window\Báo cáo cuối môn\Library\Library\obj\Debug\Library.GuestBookForm.resources
